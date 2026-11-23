@@ -21,7 +21,7 @@
                 // Surfaces
                 "background": "#19161dFF",
                 "background.appearance": "opaque",
-                "elevated_surface.background": "#352f3dFF",
+                "elevated_surface.background": "#28242eFF",
                 "surface.background": "#211d25FF",
                 // Elements
                 "element.active": "#352f3dFF",
