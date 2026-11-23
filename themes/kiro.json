@@ -58,7 +58,7 @@
                 "toolbar.background": "#352f3dFF",
                 // Search and panels
                 "panel.background": "#211d25FF",
-                "panel.focused_border": "#00000000",
+                "panel.focused_border": "#9e61ffFF",
                 "pane.focused_border": "#4a464fFF",
                 "search.match_background": "#3c4f85FF",
                 // Scrollbar
